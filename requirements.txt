@@ -1,0 +1,12 @@
+Django==4.2.5
+django-jazzmin==2.6.0
+zappa==0.58.0
+django-filter==23.3
+graphene-django==3.1.5
+Pillow==10.0.1
+# Creating the documentation
+django-storages
+django-extensions
+pydot
+python-dotenv
+graphviz

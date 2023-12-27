@@ -1,0 +1,9 @@
+{
+    "freelance": {
+        "django_settings": "admin.settings",
+        "profile_name": "freelance",
+        "project_name": "admin",
+        "runtime": "python3.9",
+        "s3_bucket": "zappa-o5p2ahwdy"
+    }
+}
